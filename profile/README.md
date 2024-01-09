@@ -1,1 +1,1 @@
-**This organization is managed and maintained by the community and not officially supported by Cloudinary.**
+**This organization is maintained by the developer community supported by the Cloudinary Developer Experience team. The projects and libraries are considered community projects and do not indicate official Cloudinary support.**
